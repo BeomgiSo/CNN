@@ -1,0 +1,21 @@
+{
+    "os": "macOS-12.2-arm64-arm-64bit",
+    "python": "3.9.13",
+    "heartbeatAt": "2022-06-14T09:34:04.445191",
+    "startedAt": "2022-06-14T09:34:03.328903",
+    "docker": null,
+    "cpu_count": 10,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "BiTCNN_tutorial-jvsc-26275f81-1ab3-4d89-9953-89cda7b4710e.ipynb",
+    "root": "/Users/ramg/Desktop/project3_CNN/CNN",
+    "git": {
+        "remote": "https://github.com/BeomgiSo/CNN.git",
+        "commit": "cc970620a447f5cb122536224384bc45f483301d"
+    },
+    "email": "beomgi0613@yonsei.ac.kr",
+    "host": "Ramgui-M1-pro.local",
+    "username": "ramg",
+    "executable": "/Users/ramg/miniforge3/envs/tensor-mac/bin/python"
+}
